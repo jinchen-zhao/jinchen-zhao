@@ -1,6 +1,6 @@
 ### Jinchen Zhao
 
-PhD candidate in Applied Physics at Yale University, advised by Logan Wright
+PhD candidate in Applied Physics at Yale University, advised by Logan Wright.
 
 [Homepage](https://jinchen-zhao.github.io) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ib53fIQAAAAJ) · [X](https://x.com/JinchenZhaoo) · [LinkedIn](https://www.linkedin.com/in/jinchenzhao/)
 
